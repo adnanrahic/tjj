@@ -15,9 +15,9 @@ Today's lecture will finally contain some *real* programming. The things we'll s
 Values are essential in every part of a JavaScript program. You may now assume how incredibly important it is to be able to create them at will. This is what an expression actually is. An expression is a fragment of code that produces a value. Imagine this, every value is actually an expression. How trippy is that?
 
 Take a look, all of these values are expressions:
-- 22
-- "psychoanalysis"
-- (2 * 4)
+- ```22```
+- ```"psychoanalysis"```
+- ```(2 * 4)```
 
 How can we as humans understand what the logic behind this actually means, and how to *translate* it into the human language? An expression symbolizes a sentence fragment, let's say a verb or noun. While a JavaScript statement is a full sentence. Meaning that all a JavaScript program actually is, is a large list of sentences. Taking a step back and thoroughly thinking about this fact, it makes so much sense. Programming code exists so that humans can read it, and understand the commands the computer should execute. Programming code exists for humans, we write code for other humans to understand. The computer doesn't care what the code looks like. It will only compile it into simple bits in the end.
 
