@@ -1,6 +1,6 @@
 # The JavaScript Journey - Chapter 1 Recap
 
-![]()
+![](https://github.com/adnanrahic/cdn/raw/master/tjj-ch-1-recap/1-U5ds1ja91Yw24kF6zfuFAkexbgZBjvt_1680x8400.jpg)
 
 ## Chapter 1 - Recap
 Welcome to the end of what has been an awesome first step. You've made it through the introductory leg of *The Journey* . Way to go to! You have come a long way. This first chapter has been a roller-coaster ride of emotions, thrills and new experiences.
@@ -16,7 +16,7 @@ But there's not really that much we can do with values alone. We need something 
 - ```==``` is equal to
 - ```!=``` is not equal to
 
-![]()
+![](https://github.com/adnanrahic/cdn/raw/master/tjj-3/1-U5dt6BgXtFvsV5rRuUp76c1LDHNrpZ9_1680x8400.jpg)
 
 ## Logical operators
 [Again, more operators... Would you believe all operations performed with a binary operator are called, shockingly, a binary operation]()https://steemit.com/programming/@adnanrahic/the-javascript-journey-3-logical-operators. Very surprising, right!? So, what's important to take away from this statement? Any binary operation must eventually be equal to a Boolean value, a true or false. Including logical operators:
@@ -64,6 +64,12 @@ Do you remember which values are special in JavaScript? [Let me give you a hint,
 
 ## Type Conversions
 Weirdly enough, JavaScript is like a retarded friend, he's so willing to help you out, but whatever he does never really helps you... at all... ever. He's so nice, he tries to convert the types of the values in a comparison operation. Where ```'5' - 1``` is equal to ```4```, and ```'5' + 1``` is equal to ```51```. I know, but why though!? What are you thinking? Beats me, I know it's called **type coercion**. Remember this, please.
+
+<!-- ![](https://github.com/adnanrahic/cdn/raw/master/tjj-ch-1-recap/2-U5dsXdirt5CKLzJbKb47FvH8cPVNS3n.gif) -->
+
+<center>
+<img src='https://github.com/adnanrahic/cdn/raw/master/tjj-ch-1-recap/2-U5dsXdirt5CKLzJbKb47FvH8cPVNS3n.gif'>
+</center>
 
 ## Precise Type Comparisons
 Thank the flying spaghetti monster, we have a way to stop this! With the precise type comparison. Colloquially called the *triple-qual-to*.
