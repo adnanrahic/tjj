@@ -67,9 +67,11 @@ Weirdly enough, JavaScript is like a retarded friend, he's so willing to help yo
 
 <!-- ![](https://github.com/adnanrahic/cdn/raw/master/tjj-ch-1-recap/2-U5dsXdirt5CKLzJbKb47FvH8cPVNS3n.gif) -->
 
+<p>
 <center>
 <img src='https://github.com/adnanrahic/cdn/raw/master/tjj-ch-1-recap/2-U5dsXdirt5CKLzJbKb47FvH8cPVNS3n.gif'>
 </center>
+</p>
 
 ## Precise Type Comparisons
 Thank the flying spaghetti monster, we have a way to stop this! With the precise type comparison. Colloquially called the *triple-qual-to*.
