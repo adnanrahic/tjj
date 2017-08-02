@@ -19,7 +19,7 @@ But there's not really that much we can do with values alone. We need something 
 ![](https://github.com/adnanrahic/cdn/raw/master/tjj-3/1-U5dt6BgXtFvsV5rRuUp76c1LDHNrpZ9_1680x8400.jpg)
 
 ## Logical operators
-[Again, more operators... Would you believe all operations performed with a binary operator are called, shockingly, a binary operation]()https://steemit.com/programming/@adnanrahic/the-javascript-journey-3-logical-operators. Very surprising, right!? So, what's important to take away from this statement? Any binary operation must eventually be equal to a Boolean value, a true or false. Including logical operators:
+[Again, more operators... Would you believe all operations performed with a binary operator are called, shockingly, a binary operation](https://steemit.com/programming/@adnanrahic/the-javascript-journey-3-logical-operators). Very surprising, right!? So, what's important to take away from this statement? Any binary operation must eventually be equal to a Boolean value, a true or false. Including logical operators:
 
 - AND, represented with - ```&&```
 - OR, represented with - ```||```
@@ -83,6 +83,14 @@ These awesome operators are what make it possible to disable type coercion. Maki
 
 ## Summary
 This has been a brief recap of the first four lessons of *The JavaScript Journey*. With this, Chapter One is complete! You can check out [Lesson 4](https://steemit.com/programming/@adnanrahic/the-javascript-journey-4-special-values-and-precise-comparisons) if you need to go over some examples again. Hope you guys and girls had fun learning alongside me. Tune in next time when we'll finally start some real coding.
+
+___
+
+## Chapter 1
+- [Lesson 1 - Values](https://steemit.com/programming/@adnanrahic/the-javascript-journey-1-values)
+- [Lesson 2 - Arithmetic and Operators](https://steemit.com/programming/@adnanrahic/the-javascript-journey-2-arithmetic-and-operators)
+- [Lesson 3 - Logical Operators](https://steemit.com/programming/@adnanrahic/the-javascript-journey-3-logical-operators)
+- [Lesson 4 - Special Values and Precise Comparisons](https://steemit.com/programming/@adnanrahic/the-javascript-journey-4-special-values-and-precise-comparisons)
 
 ___
 
