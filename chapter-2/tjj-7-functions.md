@@ -1,0 +1,1 @@
+# The JavaScript Journey #7 - Functions
