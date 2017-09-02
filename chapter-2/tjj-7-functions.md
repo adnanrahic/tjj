@@ -31,6 +31,7 @@ var maxNumber = Math.max(2, 4);
 console.log(maxNumber); 
 // 4
 ```
+###
 
 You see? The function has returned a value and assigned it to the variable ```maxNumber```. This means the function produced a value. Having this in mind, everything that produces a value is an expression. So it can be used in combination with other expressions.
 
@@ -38,6 +39,43 @@ You see? The function has returned a value and assigned it to the variable ```ma
 Math.max(2, 4) + 6 > 5 || 1 == Math.min(1, 7)
 // true
 ```
+###
 
+## Bread and butter
+Functions are the core of programming in JavaScript. They are used to structure larger programs, and to reduce repetition. This means we can create sub-programs in our larger program. Remember, above I mentioned that functions freeze code to be used later. This can be viewed as a sub-program. And to call upon it at a later time we give it a name. Meaning every function has a name, and that it is isolated from another sub-program.
 
-## 
+Want to create a function? I bet you do.
+
+## Function definition
+A function definition is just like a variable definition. The value of the function is assigned to the variable. 
+
+```javascript
+var square = function(x) {
+  return x * x;
+};
+var result = square(12);
+console.log(result);
+// → 144
+```
+
+Functions are created with the ```function``` keyword. Every function has a body and parameters. The body is wrapped in curly braces (```{}```), and contains all the expression that will be executed when the function is called. Functions can have as many parameters as the programmer wants, or none at all. Here are two examples.
+
+```javascript
+// No parameters
+var sayHello = function() {
+  console.log("Hello!");
+};
+sayHello();
+// → Pling!
+
+// Multiple Parameters
+var addTwoNumbers = function(x, y) {
+  return x + y;
+};
+var result = addTwoNumbers(5, 1);
+console.log(result);
+// → 6!
+```
+
+## Backtracking
+Let's take a step back and focus on ```return``` statements a bit more.
